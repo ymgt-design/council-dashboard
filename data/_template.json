@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "issue": 36,
+  "session": "令和8年6月定例会議",
+  "year": 2026,
+  "month": 6,
+  "published_date": "2026-08-15",
+  "index_page": 8,
+  "links": {
+    "bulletin_pdf": "https://…/hino36web.pdf",
+    "minutes": "https://…（会議録）",
+    "video": "https://…（録画配信）"
+  },
+  "members": [
+    {
+      "name": "（議員名）", "kana": "（よみ）", "order": 1, "page": 9,
+      "questions": [
+        {
+          "n": 1, "published": true, "theme": "（テーマ＝config.jsonのid）",
+          "title": "（一覧表＝目次の題名）",
+          "answer_title": "（答弁の見出し）",
+          "q": "（問の原文。改行は \\n）",
+          "a": [ { "label": "答弁", "text": "（答弁本文）" } ],
+          "o": [ ]
+        },
+        {
+          "n": 2, "published": false, "theme": "（テーマ）",
+          "title": "（未掲載は題名のみ。q/a/o は不要）"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "town": {
+    "name": "滋賀県蒲生郡日野町",
+    "name_en": "Hino Town, Shiga",
+    "council_term": "令和5年5月1日 〜 令和9年4月30日（2023年5月〜2027年4月）",
+    "seats": 14,
+    "bulletin_index_url": "https://www.town.shiga-hino.lg.jp/0000007081.html",
+    "minutes_index_url": "",
+    "video_index_url": "",
+    "name_short": "日野町",
+    "term_label": "第18期"
+  },
+  "default_member_order": "seat",
+  "members": [
+    {
+      "name": "錦戸 由佳",
+      "kana": "にしきど ゆか",
+      "seat": 1,
+      "kaiha": "ひらくみらい",
+      "party": "無所属",
+      "terms": 1,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/1_nisikido.JPG",
+      "note": "令和6年7月8日就任"
+    },
+    {
+      "name": "福永 晃仁",
+      "kana": "ふくなが あきひと",
+      "seat": 2,
+      "kaiha": "ひらくみらい",
+      "party": "無所属",
+      "terms": 1,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/2_fukunaga.JPG",
+      "note": ""
+    },
+    {
+      "name": "谷口 智哉",
+      "kana": "たにぐち ともや",
+      "seat": 3,
+      "kaiha": "ひらくみらい",
+      "party": "無所属",
+      "terms": 1,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/3_taniguti.JPG",
+      "note": ""
+    },
+    {
+      "name": "松田 洋子",
+      "kana": "まつだ ようこ",
+      "seat": 4,
+      "kaiha": "日本共産党日野町議員団",
+      "party": "日本共産党",
+      "terms": 1,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/4_matuda.JPG",
+      "note": ""
+    },
+    {
+      "name": "柚木 記久雄",
+      "kana": "ゆのき きくお",
+      "seat": 5,
+      "kaiha": "民声の会",
+      "party": "無所属",
+      "terms": 1,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/5_yunoki.JPG",
+      "note": ""
+    },
+    {
+      "name": "川東 昭男",
+      "kana": "かわひがし あきお",
+      "seat": 6,
+      "kaiha": "会派所属なし",
+      "party": "無所属",
+      "terms": 1,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/6_kawahigasi.JPG",
+      "note": "監査委員"
+    },
+    {
+      "name": "野矢 貴之",
+      "kana": "のや たかゆき",
+      "seat": 7,
+      "kaiha": "ひらくみらい（会派代表）",
+      "party": "無所属",
+      "terms": 2,
+      "role": "副議長",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/7_noya.JPG",
+      "note": ""
+    },
+    {
+      "name": "山本 秀喜",
+      "kana": "やまもと ひでき",
+      "seat": 8,
+      "kaiha": "民声の会（会派代表）",
+      "party": "無所属",
+      "terms": 2,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/8_yamamoto.JPG",
+      "note": ""
+    },
+    {
+      "name": "髙橋 源三郎",
+      "kana": "たかはし げんざぶろう",
+      "seat": 9,
+      "kaiha": "令和会",
+      "party": "幸福実現党",
+      "terms": 2,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/9_takahais.JPG",
+      "note": ""
+    },
+    {
+      "name": "加藤 和幸",
+      "kana": "かとう かずゆき",
+      "seat": 10,
+      "kaiha": "日本共産党日野町議員団（会派代表）",
+      "party": "日本共産党",
+      "terms": 2,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/10_kato.JPG",
+      "note": ""
+    },
+    {
+      "name": "後藤 勇樹",
+      "kana": "ごとう ゆうき",
+      "seat": 11,
+      "kaiha": "令和会（会派代表）",
+      "party": "無所属",
+      "terms": 3,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/11_goto.JPG",
+      "note": ""
+    },
+    {
+      "name": "中西 佳子",
+      "kana": "なかにし けいこ",
+      "seat": 12,
+      "kaiha": "公明党（会派代表）",
+      "party": "公明党",
+      "terms": 4,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/12_nakanisi.JPG",
+      "note": ""
+    },
+    {
+      "name": "西澤 正治",
+      "kana": "にしざわ まさはる",
+      "seat": 13,
+      "kaiha": "令和会",
+      "party": "無所属",
+      "terms": 5,
+      "role": "",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/13_nisizawa.JPG",
+      "note": ""
+    },
+    {
+      "name": "杉浦 和人",
+      "kana": "すぎうら かずひと",
+      "seat": 14,
+      "kaiha": "会派所属なし",
+      "party": "無所属",
+      "terms": 11,
+      "role": "議長",
+      "photo": "https://www.town.shiga-hino.lg.jp/cmsfiles/contents/0000007/7949/14_sugiura.JPG",
+      "note": "一般質問は慣例として行わない"
+    }
+  ],
+  "themes": [
+    {
+      "id": "子育て・教育",
+      "label": "子育て・教育",
+      "color": "#D98324",
+      "order": 1
+    },
+    {
+      "id": "行財政・行政運営",
+      "label": "行財政・行政運営",
+      "color": "#5B6770",
+      "order": 2
+    },
+    {
+      "id": "福祉・健康・医療",
+      "label": "福祉・健康・医療",
+      "color": "#C44569",
+      "order": 3
+    },
+    {
+      "id": "交通・公共交通",
+      "label": "交通・公共交通",
+      "color": "#2D6A8E",
+      "order": 4
+    },
+    {
+      "id": "農林業",
+      "label": "農林業",
+      "color": "#6A8D3F",
+      "order": 5
+    },
+    {
+      "id": "防災・安全",
+      "label": "防災・安全",
+      "color": "#B23A48",
+      "order": 6
+    },
+    {
+      "id": "自治・住民参画",
+      "label": "自治・住民参画",
+      "color": "#7A5C9E",
+      "order": 7
+    },
+    {
+      "id": "まちづくり・公園・空き家",
+      "label": "まちづくり・公園・空き家",
+      "color": "#3E8E7E",
+      "order": 8
+    },
+    {
+      "id": "産業・観光・文化財",
+      "label": "産業・観光・文化財",
+      "color": "#A8762F",
+      "order": 9
+    },
+    {
+      "id": "人口・移住定住",
+      "label": "人口・移住定住",
+      "color": "#C77FA8",
+      "order": 10
+    },
+    {
+      "id": "環境",
+      "label": "環境",
+      "color": "#3F8E63",
+      "order": 11
+    }
+  ],
+  "theme_policy": "各質問は主たる政策領域で1テーマに分類した実務的な区分であり、境界事例は判断による。テーマは件数比較のためではなく、扱われた論点の広がりを示すためのもの。",
+  "publication_rule": "議会だよりでは、3つ以上一般質問がある場合、スペースの関係で〇のついた番号の質問と答弁を掲載しています。本データでは全質問を収録し、掲載された質問を『掲載』として区別しています。議員定数は14名。議長は慣例として一般質問を行いません。",
+  "neutrality_policy": "質問数は数え方が議員ごとに異なり、在任期間・登壇機会も一様でないため、議員間の優劣を示す指標ではない。既定表示は議席番号順とし、件数による序列化は行わない。",
+  "source": "日野町議会だより 第24号〜第32号 ／ 議員情報・写真：日野町公式サイト「議員の紹介」",
+  "license": {
+    "code": "MIT",
+    "data": "CC BY 4.0"
+  }
+}
